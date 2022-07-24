@@ -1,2 +1,2 @@
 # hexColorGenerator
-Color Hex Code Generator
+A hex code generator for random HTML colors
